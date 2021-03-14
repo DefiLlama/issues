@@ -1,11 +1,10 @@
 #### Missing protocols
  - Vesper
- - Armor
+ - Armor (has blockers)
  - Smoothy (in progress)
  - Reflexer
  - Polygon (in progress)
- - Yaxis
-
+ - Venus
 
 #### Roadmap
  - WIP
